@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d6538c1-4197-40b2-88d0-1325f94f99aa" />
-
 📊 Power BI Sales Dashboard (2020–2022)
 
 This project showcases an end-to-end interactive Sales Dashboard built using Microsoft Power BI, utilizing multiple Power BI features and Excel data sources to deliver real-time business insights.
